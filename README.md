@@ -1,6 +1,12 @@
 # Smart Doc Platform
 
-> 仓库示例：[shenshuo-maker/smart-doc-platform](https://github.com/shenshuo-maker/smart-doc-platform)
+<p>
+  <img src="https://img.shields.io/badge/配套-评测底座_知识库-3D5A66?style=for-the-badge" alt="eval kb">
+  <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge" alt="LangChain">
+  <img src="https://img.shields.io/badge/Agent-ReAct-B4532A?style=for-the-badge" alt="ReAct">
+</p>
+
+> Infra 面试请先看 [sandbench](https://github.com/shenshuo-maker/sandbench)。本仓库是评测/文档场景的知识库练习，不是主方向。
 
 基于 **RAG + LangGraph ReAct Agent** 的企业文档智能问答：支持 PDF 入库、语义检索与持久化向量库，通过 Agent 工具完成**单文档问答**与**多文档对比**，强调依据上下文作答以降低幻觉。
 
